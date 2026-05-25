@@ -1,0 +1,51 @@
+header{
+  padding-block: 32px;
+  /* faixa cinza atrás do header */
+  background-color: var(--skeleton-color);
+}
+header .container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#profile{
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+#profile img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.profile-text h1{
+  font: var(--text-lg);
+  color: var(--text-colorprimary);
+  margin-bottom: 8px;
+}
+
+.profile-text .bio{
+  font: var(--text-md);
+  color: var(--text-color-secondary);
+  max-width: 640px;
+}
+
+#stats ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+#stats li{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  color: var(--text-color-secondary);
+}
+
+
+
