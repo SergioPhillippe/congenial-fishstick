@@ -4,5 +4,5 @@
 Este repositório guarda a minha **evolução** no mundo da programação. Aqui registro cada passo do meu aprendizado, desde os conceitos mais básicos até desafios mais complexos.
 
 ### 🛠️ Tecnologias
-* **Linguagem:** Python, HTML, CSS
+* **Linguagem:** Python, HTML, CSS, JavaScript
 * **Foco atual:** Lógica de programação (variáveis, estruturas de repetição, condicionais)
